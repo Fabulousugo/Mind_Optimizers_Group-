@@ -10,7 +10,7 @@ import { AiOutlineInstagram, AiOutlineTwitter } from 'react-icons/ai'
 import { HiDotsVertical } from 'react-icons/hi'
 import { BsFillShareFill } from 'react-icons/bs'
 import ProfileCard from '../components/ProfileCard'
-import profile from '../assets/profile.png'
+//import profile from '../assets/profile.png'
 
 // const style = {
 //     wrapper: `overflow-hidden`,
